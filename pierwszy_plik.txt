@@ -1,1 +1,4 @@
 Tekst pierwszego pliku.
+
+Nowa linijka pierwszego pliku.
+Edycja.
